@@ -1,5 +1,11 @@
 # C++ 经典算法设计与分析
 
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-C%2B%2B17-7c3aed?style=for-the-badge)](#)
+
+[English](README.md)
+
+
 这是一个面向 GitHub Portfolio 展示的 C++17 算法项目，由本科《算法设计与分析》课程作业重新整理、修复和工程化而成。
 
 本仓库不是把原始作业文件直接上传，而是保留其中有价值的算法主题，统一重构为可编译、可测试、可复现实验的代码库。
