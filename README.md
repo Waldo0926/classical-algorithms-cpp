@@ -1,5 +1,9 @@
 # Classical Algorithms in C++
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-C%2B%2B17-7c3aed?style=for-the-badge)](#)
+
+
 A portfolio-oriented C++17 implementation of classical algorithm-design techniques, reconstructed from undergraduate **Algorithm Design and Analysis** coursework and refactored into a tested, reproducible codebase.
 
 [中文说明](README.zh-CN.md)
