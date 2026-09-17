@@ -6,7 +6,7 @@
 
 A portfolio-oriented C++17 implementation of classical algorithm-design techniques, reconstructed from undergraduate **Algorithm Design and Analysis** coursework and refactored into a tested, reproducible codebase.
 
-[中文说明](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 ## What this repository demonstrates
 
