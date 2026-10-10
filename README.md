@@ -3,10 +3,9 @@
 [![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
 [![Tech](https://img.shields.io/badge/Tech-C%2B%2B17-7c3aed?style=for-the-badge)](#)
 
-
-A portfolio-oriented C++17 implementation of classical algorithm-design techniques, reconstructed from undergraduate **Algorithm Design and Analysis** coursework and refactored into a tested, reproducible codebase.
-
 **English** · [中文](README.zh-CN.md)
+
+C++17 implementations of classical algorithm-design techniques, rebuilt from my undergraduate **Algorithm Design and Analysis** coursework into a tested, reproducible codebase.
 
 ## What this repository demonstrates
 
